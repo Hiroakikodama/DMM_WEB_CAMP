@@ -65,11 +65,8 @@ main {
 /*768px以下では、縦並びになるようにレスポンシブ対応*/
 
 @media screen and (max-width: 768px) {
-	main {
-		width: 90%;
-	}
-
 	.step-box {
+		width: 90%;
 		margin: 0 auto;
 		margin-bottom: 20px;
 		float: none;
